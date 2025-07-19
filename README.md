@@ -40,6 +40,7 @@ Sampling is performed **autoregressively**:
 
 ❓ Have questions or suggestions? Feel free to:  
 - Open an issue on GitHub.  
-- Email me at [Aref.shahbakhsh1998@gmail.com](mailto:Aref.shahbakhsh1998@gmail.com).  
+- Email me at [Aref.shahbakhsh1998@gmail.com](mailto:Aref.shahbakhsh1998@gmail.com).
+- Email me at [Aref.shahbakhsh@sharif.edu](mailto:Aref.Shahbakhsh@sharif.edu).
 
 Let’s make learning accessible to everyone! 🚀  
