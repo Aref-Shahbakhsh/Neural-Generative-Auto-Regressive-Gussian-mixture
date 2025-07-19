@@ -33,7 +33,7 @@ Sampling is performed **autoregressively**:
 - Modern variants (e.g., **masked autoregressive models**) use a single neural network with masking techniques to approximate the joint distribution efficiently. This is how models like **ChatGPT** scale to massive datasets!  
 - Think of this as the **starting point**—a clear, theoretical foundation before diving into large-scale implementations.  
 
----
+--- 
 
 ### Get Involved!
 🌟 If you find this project helpful, **please give it a star** on GitHub! This helps others discover it and supports open science.  
