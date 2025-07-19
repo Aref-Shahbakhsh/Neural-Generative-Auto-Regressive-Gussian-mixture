@@ -34,7 +34,7 @@ Sampling is performed **autoregressively**:
 - Think of this as the **starting point**—a clear, theoretical foundation before diving into large-scale implementations.  
 
 --- 
-
+ 
 ### Get Involved!
 🌟 If you find this project helpful, **please give it a star** on GitHub! This helps others discover it and supports open science.  
 
