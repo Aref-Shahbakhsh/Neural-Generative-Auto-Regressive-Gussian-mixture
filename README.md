@@ -1,6 +1,6 @@
 # Neural Autoregressive Model with Gaussian Mixture
 
-Hi! In this notebook, I implemented a **neural autoregressive model** (the foundational technology behind models like ChatGPT!) using **Gaussian mixture distributions** for each conditional probability. Below is a concise overview of the key concepts. A detailed video tutorial will be released soon!
+Hi! In this notebook, I implemented a **neural autoregressive model** (the foundational technology behind models like ChatGPT!) using **Gaussian mixture distributions** for each conditional probability. Below is a concise overview of the key concepts.
 
 ## Key Concepts
 
